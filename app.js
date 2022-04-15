@@ -23,7 +23,7 @@ addBtn.addEventListener("click", function (e) {
     }
     else
     {
-        alert("Please enter the note")
+        windows.alert("Please enter the note")
     }
     showNotes();
 });
